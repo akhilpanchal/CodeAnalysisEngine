@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeAnalysis>
+  <Information about="types">
+    <typeentry type="enum" name="d" namespace="TypeRelationships" />
+    <typeentry type="interface" name="C" namespace="TypeRelationships" />
+    <typeentry type="interface" name="Q" namespace="TypeRelationships" />
+    <typeentry type="class" name="ccllsad" namespace="TypeRelationships" />
+    <typeentry type="class" name="AggregatedType" namespace="TypeRelationships" />
+    <typeentry type="delegate" name="invoker" namespace="TypeRelationships" />
+    <typeentry type="class" name="DerivedType" namespace="TypeRelationships" />
+    <typeentry type="struct" name="ComposedType" namespace="TypeRelationships" />
+    <typeentry type="class" name="UsedType" namespace="TypeRelationships" />
+    <typeentry type="class" name="DemoRelationships" namespace="TypeRelationships" />
+    <typeentry type="interface" name="A" namespace="TypeRelationships" />
+    <typeentry type="class" name="CSemiExp" namespace="CSsemi" />
+    <typeentry type="class" name="Executive" namespace="CodeAnalysis" />
+  </Information>
+  <Information about="functions">
+    <function name="q" size="3" complexity="1" />
+    <function name="p" size="3" complexity="1" />
+    <function name="say1" size="1" complexity="1" />
+    <function name="say" size="8" complexity="3" />
+    <function name="DerivedType" size="4" complexity="1" />
+    <function name="say" size="4" complexity="1" />
+    <function name="say" size="6" complexity="1" />
+    <function name="UsedType" size="3" complexity="1" />
+    <function name="say" size="3" complexity="1" />
+    <function name="DemoRelationships" size="5" complexity="1" />
+    <function name="say" size="4" complexity="1" />
+    <function name="Main" size="15" complexity="1" />
+    <function name="CSemiExp" size="7" complexity="1" />
+    <function name="Equals" size="9" complexity="3" />
+    <function name="FindFirst" size="6" complexity="2" />
+    <function name="FindLast" size="6" complexity="2" />
+    <function name="Contains" size="3" complexity="1" />
+    <function name="GetHashCode" size="3" complexity="1" />
+    <function name="open" size="3" complexity="1" />
+    <function name="close" size="3" complexity="1" />
+    <function name="isTerminator" size="13" complexity="0" />
+    <function name="switch" size="10" complexity="2" />
+    <function name="get" size="7" complexity="2" />
+    <function name="IsPunc" size="3" complexity="1" />
+    <function name="IsOperatorPair" size="15" complexity="3" />
+    <function name="getSemi" size="26" complexity="7" />
+    <function name="insert" size="8" complexity="2" />
+    <function name="Add" size="4" complexity="1" />
+    <function name="Add" size="4" complexity="2" />
+    <function name="initialize" size="6" complexity="2" />
+    <function name="flush" size="3" complexity="1" />
+    <function name="isComment" size="7" complexity="2" />
+    <function name="display" size="4" complexity="1" />
+    <function name="displayStr" size="10" complexity="3" />
+    <function name="clone" size="8" complexity="2" />
+    <function name="remove" size="8" complexity="2" />
+    <function name="remove" size="8" complexity="2" />
+    <function name="Main" size="58" complexity="6" />
+    <function name="Main" size="6" complexity="1" />
+  </Information>
+  <Information about="typerelationships" />
+</CodeAnalysis>
